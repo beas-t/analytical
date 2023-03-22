@@ -1,0 +1,11 @@
+1)Output : A
+
+2)Input :
+     Enter the string:aadithya
+Output :
+      AADITHYA
+3)Output :ERROR
+4)No. The for loop tells the correct string length(11),where as the while loop gives 12 as a length.
+5) points to the null derefrencing the null results inn crashing of the program.
+6) a++ is the error because you cannot increment an array.
+7) 11 22 33  44 55
